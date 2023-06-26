@@ -13,8 +13,8 @@ header{
  }
 
 body{
-    background-color: #424E61;
-    color: #424E61;
+    background-color:#424E61;
+    color: #ffffff;
 }
 
 .cabeçalho-imagem {
@@ -31,4 +31,3 @@ body{
 .cabeçalho-imagem {
     width: 2%;
 }
-
