@@ -4,7 +4,7 @@
 }
 
 header{
-    background-color: #424E61;
+    background-color: #424a6b;
     color: azure;
     display: flex;
     justify-content: space-around;
@@ -13,8 +13,9 @@ header{
  }
 
 body{
-    background-color:#424E61;
+    background-color:#424e61;
     color: #ffffff;
+    background-image: linear-gradient(#424a6b, #244a57);
 }
 
 .cabeçalho-imagem {
