@@ -5,7 +5,7 @@
 }
 
 header{
-    color: azure;
+    color: rgb(216, 216, 216);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -15,19 +15,19 @@ header{
 }
 body{
     color: #ffffff;
-    background-image: linear-gradient(#224a57, #65848e);
+    background-image: linear-gradient(#0c3d54, #0a5b52);
     text-align: center;
 
 }
 
 .cabeçalho-imagem {
- width: 1%;
+ width: 0%;
 
  }
 
  .cabeçalho-lista-item {
     display: list-item;
-    margin: 0% 16px;
+    margin: 6% 16px;
     font-size: 10px;
 }
 
