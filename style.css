@@ -29,6 +29,7 @@ body{
     display: list-item;
     margin: 6% 16px;
     font-size: 10px;
+    color: rgb(214, 214, 214);
 }
 
 .cabeçalho-imagem {
